@@ -17,21 +17,21 @@ Data Bootcamp Module 7: Employee Database with SQL
 
 - Of all the employees of the company, we select all of them who were born between the 01-01-1951 and the 12-31-1955 and group them by the position that they have in the company (title), obtaining the following result:
 
-![This is an image](https://github.com/HansFeddersen/World_Weather_Analysis/blob/main/more/setp1/Random_coordinates_generator.png)
+![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/Elegible%20for%20retirement.png)
 
 - The code to obtain the information above is as follows:
 
-![This is an image](https://github.com/HansFeddersen/World_Weather_Analysis/blob/main/more/setp1/Nearest_city_coordinates.png)
+![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/Code_deliverable_1.png)
 
 **Deliverable 2: The Employees Eligible for the Mentorship Program**
 
 - For this deliverable, we have to select all of the employess that are elegible for a mentorship program. For that, we have to find all of the active employees that were born between January 1, 1965 and December 31, 1965. In this summary, we'll be displaying the employee number (emp_no), first name (first_name), last name (last_name), birth date (birth_date), first date on the job (from_date), if they are still active (to_date equals to 9999-01-01) and their position on the company (title). We obtain the following result (in total there are 1,549 employees elegible, but we only display the first 10 of the list as an example):
 
-![This is an image](https://github.com/HansFeddersen/World_Weather_Analysis/blob/main/more/setp1/Nearest_city_coordinates.png)
+![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/elegible_for_mentorship.png)
 
 - The code to obtain the information above is as follows:
 
-![This is an image](https://github.com/HansFeddersen/World_Weather_Analysis/blob/main/more/setp1/Nearest_city_coordinates.png)
+![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/Code_deliverable_2.png)
 
 **Mayor points about the results**
 
@@ -55,4 +55,4 @@ Answer the following questions:
 
 - Yes there are. The number of employees that are elegible for retirement is much larger for every postion that the number of employees that are elegible or mentorship. The comparison is as follows:
 
-![This is an image](https://github.com/HansFeddersen/World_Weather_Analysis/blob/main/more/setp1/Nearest_city_coordinates.png)
+![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/Last_question.png)
